@@ -96,6 +96,7 @@ a{
     border-bottom: 3px dashed blue;
     background-color: #A1A1A1;
     font-size: 14px;
+    padding: 14px;
 }
 .text{
     padding: 10px;
@@ -111,7 +112,9 @@ img{
     border-radius: 16%;
 }
 .footer{
-    background-color: blueviolet;
+    background-color: rgba(241, 238, 24, 0.455);
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
+    padding: 10px;
+    border-top: 4px solid blue;
 }
