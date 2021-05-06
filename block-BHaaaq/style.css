@@ -102,23 +102,22 @@ margin-left: 10px;
     margin-bottom: 2%;
     box-sizing: border-box;
 }*/
-.child{
-    width: 450px;
-    height:750px;
-    padding:50px;
-    padding-top: 50px;
-    margin-left: 30px;
-    background-color: red;
-    margin-bottom: 100px;
-    border-bottom: 30px ridge  yellow;
-
-    border-right: 30px ridge gray;
-    border-top:30px ridge blue;
-    border-left:30px ridge green;
-    outline:purple solid 20px
+.para-container{
+    padding: 48px 32px;
+    background-color: indigo;
+    display: inline-block;
+    margin: 32px;
 
 
 }
 .text{
-    padding: 50px;
+    width:400px;
+    background-color: red;
+    padding: 24px;
+    font-size: 24px;
+    color: white;
+    border-top: 10px solid blue;
+    border-right: 10px solid gray;
+    border-bottom: 10px solid yellow;
+    border-left: 10px solid green;
 }
